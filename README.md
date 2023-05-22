@@ -30,8 +30,11 @@ __test.csv__ в postgres в таблицу _test_csv_ (использовав п
 campaign_id (2 записи):
 
 install_date | country | campaign_id | campaign_name | installs
+
 - | --- |-----------| --- | ---
+
 2022-04-17|CC|null|.3k8Egg2ahGH1DF08Dck|2264
+
 2022-06-06|CA|null|h21iChHb974dDb9F3E.g|3752
 
 country (988 записей)
